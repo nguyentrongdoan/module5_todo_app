@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "apptodo"
+    }
+  },
+  "defaultProject": "apptodo",
+  "cli": {
+    "analytics": false
+  }
 }
